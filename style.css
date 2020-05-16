@@ -113,3 +113,11 @@ p.text {
 p.text span {
   color: #6feaf6;
 }
+
+#booking {
+  background-color: #6feaf6;
+  margin-top: 10px;
+  width: 100px;
+  height: 25px;
+  border-radius: 5px;
+}
